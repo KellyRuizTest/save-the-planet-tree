@@ -9,12 +9,12 @@ USERID: admin
 
 PASS: admin 
 
-BD file: arbol.sql
+Database file: arbol.sql
 
 Framework
 ===============
 
-La versión del framework en la carpeta assets:
+La versión del framework en la carpeta:
 /assets/Framework Yii version.rar
 
 
